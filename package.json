@@ -1,0 +1,23 @@
+{
+  "name": "typescript-task-manager",
+  "version": "1.0.0",
+  "description": "A command-line Task Manager built with TypeScript for CSE 310 Module 1",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "run:built": "node dist/index.js"
+  },
+  "keywords": [
+    "typescript",
+    "task-manager",
+    "cli"
+  ],
+  "author": "Farhan",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.19.41",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  }
+}
