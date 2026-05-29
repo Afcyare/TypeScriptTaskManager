@@ -8,7 +8,7 @@ This is a command-line Task Manager application written in TypeScript. It lets y
 
 I chose this project because I wanted something practical that I could actually use, not just a toy demo. A task manager is something every student needs, and building it in TypeScript forced me to think carefully about types and structure from the very beginning.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=lhsKXhVlX0E)
 
 ## Development Environment
 
